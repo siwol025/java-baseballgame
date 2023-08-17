@@ -1,2 +1,5 @@
-package baseballgame;public class BaseballGame {
+package baseballgame;
+
+public class BaseballGame {
+
 }
